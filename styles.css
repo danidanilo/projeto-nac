@@ -1,0 +1,26 @@
+.cores{
+--carnelian: #BA1E1Eff;
+--deep-chestnut: #BA4D3Eff;
+--spanish-pink: #F3BBBBff;
+--white: #FFFFFFff;
+--timberwolf: #DFD6D5ff;
+}
+
+body {
+    background-color: #DFD6D5ff;
+}
+
+#titulo {
+    color: #BA1E1Eff;
+    margin: 0px;
+}
+
+#titulo1 {
+    color: #BA4D3Eff;
+    margin: 0px;
+}
+
+#titulo2 {
+    color: #F3BBBBff;
+}
+
